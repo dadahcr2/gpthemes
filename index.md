@@ -1,4 +1,4 @@
-##  Github pages supported themes
+##  Github Pages Supported Themes
 
  [ Architect](https://pages-themes.github.io/architect/) |  [Cayman]( https://pages-themes.github.io/cayman/) | [Dinky]( https://pages-themes.github.io/dinky/)  
 :--: | :--: | :--:  
@@ -10,7 +10,7 @@
 **[Slate]( https://pages-themes.github.io/slate/ )** | **[Tactile]( https://pages-themes.github.io/tactile/)** | **[Time Machine]( https://pages-themes.github.io/time-machine/)**  
 [![<https://pages-themes.github.io/slate/ >](https://raw.githubusercontent.com/pages-themes/slate/master/thumbnail.png )]( https://pages-themes.github.io/slate/ ) | [![<https://pages-themes.github.io/tactile/ >]( https://github.com/pages-themes/tactile/blob/master/thumbnail.png?raw=true)]( https://pages-themes.github.io/tactile/) | [![<https://pages-themes.github.io/time-machine/>](https://raw.githubusercontent.com/pages-themes/time-machine/master/thumbnail.png)](<https://pages-themes.github.io/time-machine/>)    
 
-## Unlisted github themes  
+## Unlisted Github Themes  
 
 **[Primer](https://pages-themes.github.io/primer/)** |  **[Minima (Default jekyll theme)](https://jekyll.github.io/minima/)** | **[Other jekyll themes](https://github.com/topics/jekyll-theme)**  
 :--: | :--: | :--:  
