@@ -12,6 +12,6 @@
 
 ## Unlisted themes  
 
-**[Primer](https://pages-themes.github.io/primer/)** |  **[Minima (*Default jekyll theme*)](https://jekyll.github.io/minima/)** | **[Other jekyll themes](https://github.com/topics/jekyll-theme)**  
+**[Primer](https://pages-themes.github.io/primer/)** |  **[Minima (*default jekyll theme*)](https://jekyll.github.io/minima/)** | **[Other jekyll themes](https://github.com/topics/jekyll-theme)**  
 :--: | :--: | :--:  
 ***[Default github pages theme]( https://pages-themes.github.io/primer/)*  (supported)** |  [![<https://jekyll.github.io/minima/ >]( https://github.com/jekyll/minima/blob/v2.5.0/screenshot.png?raw=true)]( https://jekyll.github.io/minima/)   |  ***[#jekyll-themes](https://github.com/topics/jekyll-theme)* (not supported)**  
